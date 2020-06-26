@@ -1,2 +1,2 @@
 # CVRP_paper_crawler
-Download all paper from http://openaccess.thecvf.com/
+Download all papers from http://openaccess.thecvf.com/
